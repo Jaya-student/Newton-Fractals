@@ -18,3 +18,20 @@ and this is where chaos lives.
 ---
 
 ## Project Structure
+newton-fractals/
+    ├── src/
+    │   ├── complex_class.py      # Complex number class with full operator overloading
+    │   ├── root_finding.py       # Bisection, Newton-Raphson, Secant, Regula Falsi
+    │   ├── interpolation.py      # Lagrange, Hermite, Cubic Hermite interpolation
+    │   └── fractal.py            # Newton Fractal generator
+    │
+    ├── visualizations/
+    │   ├── newton_fractal.png    # Static fractal image
+    │   ├── fractal_zoom.gif      # Animated zoom into fractal boundary
+    │   └── convergence.png       # Convergence rate comparison across methods
+    │
+    ├── exposition/
+    │   └── report.pdf            # Full mathematical write-up
+    │
+    ├── requirements.txt
+    └── README.md
