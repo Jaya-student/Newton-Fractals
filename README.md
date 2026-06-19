@@ -49,7 +49,7 @@ python src/newton_fractal.py
 ## Results
 | Polynomial | Symmetry | Preview |
 |---|---|---|
-| z³ − 1 | 3-fold | ![](Fractal_z3-1.png) |
+| z³ − 1 | 3-fold | ![](Fractal_z3-1.jpeg) |
 | z⁴ − 1 | 4-fold | ![](Fractal_z4-1.png) |
 | z⁸ − 1 | 8-fold | ![](Fractal_z8-1.png) |
 
