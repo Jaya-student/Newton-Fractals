@@ -18,6 +18,44 @@ The boundaries between regions of convergence are infinitely complex,
 and this is where chaos lives.
 
 ---
-
 ## Project Structure
 
+```
+Newton-Fractals/
+├── src/
+│   ├── bisection.py        # Bisection Method
+│   ├── secant.py           # Secant Method
+│   ├── newton.py           # Newton's Method
+│   ├── lagrange.py         # Lagrange Interpolation
+│   ├── hermite.py          # Cubic Hermite Interpolation
+│   └── newton_fractal.py   # Fractal Generator
+├── Fractal_z4-1.png
+└── README.md
+```
+## How to Run
+
+```bash
+git clone https://github.com/Jaya-student/Newton-Fractals.git
+cd Newton-Fractals
+pip install numpy matplotlib
+python src/newton_fractal.py
+```
+
+## Requirements
+- Python 3.x
+- numpy
+- matplotlib
+
+## Results
+| Polynomial | Symmetry | Preview |
+|---|---|---|
+| z³ − 1 | 3-fold | ![](Fractal_z3-1.png) |
+| z⁴ − 1 | 4-fold | ![](Fractal_z4-1.png) |
+| z⁸ − 1 | 8-fold | ![](Fractal_z8-1.png) |
+
+## Research Paper
+This project is accompanied by a full research paper covering the mathematical
+derivations. [View Paper](#) ← link your PDF here
+
+## Author
+Jaya Patel — IIT Delhi, Mathematics and Computing (1st Year)
