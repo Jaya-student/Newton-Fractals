@@ -23,12 +23,12 @@ and this is where chaos lives.
 ```
 Newton-Fractals/
 ├── src/
-│   ├── bisection.py        # Bisection Method
-│   ├── secant.py           # Secant Method
-│   ├── newton.py           # Newton's Method
-│   ├── lagrange.py         # Lagrange Interpolation
-│   ├── hermite.py          # Cubic Hermite Interpolation
-│   └── newton_fractal.py   # Fractal Generator
+│   ├── bisection.py                   # Bisection Method
+│   ├── secant.py                      # Secant Method
+│   ├── newtonRootFinding.py           # Newton's Method
+│   ├── lagrange.py                    # Lagrange Interpolation
+│   ├── hermite.py                     # Cubic Hermite Interpolation
+│   └── newton_fractal.py              # Fractal Generator
 ├── Fractal_z4-1.png
 └── README.md
 ```
