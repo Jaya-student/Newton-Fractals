@@ -55,7 +55,7 @@ python src/newton_fractal.py
 
 ## Research Paper
 This project is accompanied by a full research paper covering the mathematical
-derivations. [View Paper](https://github.com/Jaya-student/Newton-Fractals/blob/0bc1e00fc90dedd6830d522b3aa253302237f82c/Analysis_of_Numerical_Algorithm%20(1).pdf) 
+derivations. [View Paper](https://github.com/Jaya-student/Newton-Fractals/blob/b10f49a9ed0b20ba787473154fc2cf230be630f9/Analysis%20of_Numerical_Algorithm.pdf) 
 
 ## Author
 Jaya Patel — IIT Delhi, Mathematics and Computing (1st Year)
